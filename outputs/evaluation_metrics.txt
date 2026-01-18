@@ -1,0 +1,3 @@
+Mean Fidelity: 0.9575
+Mean Trace Distance: 0.1516
+Inference Latency: 0.4369 ms/sample
